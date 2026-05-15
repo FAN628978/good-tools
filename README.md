@@ -25,3 +25,6 @@ yt-dlp <url>
 ```
 
 自动下载并合并音视频流。
+
+### ubuntu安装教程
+<https://emerywan.github.io/ubuntu-workstation-guide/>
