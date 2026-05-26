@@ -28,3 +28,6 @@ yt-dlp <url>
 
 ### ubuntu安装教程
 <https://emerywan.github.io/ubuntu-workstation-guide/>
+
+### windows和office激活tools
+HEU_KMS_Activator和Office Tool Plus
